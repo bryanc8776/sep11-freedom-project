@@ -17,6 +17,7 @@
     * Read through the examples
     * Changed values of `sprite.basic-property = value`
     * Did level 0 challenge which asked to create a blue circle and place it in the top right corner of the canvas
+   * [Physics](https://p5play.org/learn/sprite.html?page=1)
 
 
 <!--
