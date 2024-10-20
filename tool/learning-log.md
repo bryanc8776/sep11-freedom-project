@@ -12,7 +12,11 @@
 * [p5.js Reference](https://p5js.org/reference/)
 
 ### 10/20/24:
-* Text
+* [p5play: Sprites](https://p5play.org/learn/sprite.html)
+  * [Basic Properties](https://p5play.org/learn/sprite.html?page=0)
+    * Read through the examples
+    * Changed values of `sprite.basic-property = value`
+    * Did level 0 challenge which asked to create a blue circle and place it in the top right corner of the canvas
 
 
 <!--
