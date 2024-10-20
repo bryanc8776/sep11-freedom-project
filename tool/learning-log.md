@@ -7,7 +7,9 @@
 ---
 
 ### 9/30/24:
-* Text
+* [p5play:Learn](https://p5play.org/learn/index.html)
+* [p5play-Docs](https://p5play.org/docs/index.html)
+* [p5.js Reference](https://p5js.org/reference/)
 
 ### X/X/XX:
 * Text
