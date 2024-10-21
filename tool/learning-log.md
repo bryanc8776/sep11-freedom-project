@@ -21,7 +21,11 @@
     * Learned about `.collider` which detecs collisions of a sprite with other sprites.
     * `.collider` types are `s`(static), `k`(kinematic), `n`(none), and the default `d`(dynamic)
     * also learned about `world.gravity`
-  *
+  * [Movement](https://p5play.org/learn/sprite.html?page=3)
+    * learned about different movements and properties that affect/cause the movement
+    * `velocity`, `direction`, `speed`, `move`, `moveTo`, `moveTowards`
+  * Continued through the rest of the lessons on `Sprites` and changed lines of code to see what it did and what it changed in the example and challenges.
+* 
 
 
 <!--
