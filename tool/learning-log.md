@@ -25,7 +25,8 @@
     * learned about different movements and properties that affect/cause the movement
     * `velocity`, `direction`, `speed`, `move`, `moveTo`, `moveTowards`
   * Continued through the rest of the lessons on `Sprites` and changed lines of code to see what it did and what it changed in the example and challenges.
-* 
+* I went through the [Group](https://p5play.org/learn/group.html), [Animation](https://p5play.org/learn/animation.html), [Input](https://p5play.org/learn/input.html), [Camera](https://p5play.org/learn/camera.html), [Joints](https://p5play.org/learn/joints.html), [Canvas](https://p5play.org/learn/canvas.html), and [World](https://p5play.org/learn/world.html) sections.
+* I plan on making a mini project using the properties I learned and watch videos on p5play.
 
 
 <!--
