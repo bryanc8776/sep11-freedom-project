@@ -34,7 +34,9 @@
   * [Physics](https://www.youtube.com/watch?v=cPTrLLdCX-Y&list=PLoHS9P-kC-252Pd9MJD_ItfaVuYV2kTCE&index=2)
   * [Movement](https://www.youtube.com/watch?v=p0vk5HlcFA8&list=PLoHS9P-kC-252Pd9MJD_ItfaVuYV2kTCE&index=3)
   * Helped me review the things I learned in the docs of p5play and get a better understanding of what I need to have in order to make p5play run in my own website.
-* 
+* [This](https://jsbin.com/qudinafaso/edit?js,output) is my mini project.
+  * It is pretty simple
+  * Includes things like `collision`, `color`, `stroke`, `velocity`, and `kb.pressing`.
 
 <!--
 * Links you used today (websites, videos, etc)
