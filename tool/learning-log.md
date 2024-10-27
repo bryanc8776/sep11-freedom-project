@@ -37,6 +37,7 @@
 * [This](https://jsbin.com/qudinafaso/edit?js,output) is my mini project.
   * It is pretty simple
   * Includes things like `collision`, `color`, `stroke`, `velocity`, and `kb.pressing`.
+* I plan on making this project a little more advanced or make a new project and include different properties.
 
 <!--
 * Links you used today (websites, videos, etc)
