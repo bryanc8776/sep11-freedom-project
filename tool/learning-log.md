@@ -28,7 +28,7 @@
 * I went through the [Group](https://p5play.org/learn/group.html), [Animation](https://p5play.org/learn/animation.html), [Input](https://p5play.org/learn/input.html), [Camera](https://p5play.org/learn/camera.html), [Joints](https://p5play.org/learn/joints.html), [Canvas](https://p5play.org/learn/canvas.html), and [World](https://p5play.org/learn/world.html) sections.
 * I plan on making a mini project using the properties I learned and watch videos on p5play.
 
-
+### 10/27/24:
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
