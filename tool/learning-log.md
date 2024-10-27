@@ -30,10 +30,10 @@
 
 ### 10/27/24:
 * Watched these three videos on p5play
- * [Basics](https://www.youtube.com/watch?v=5addy2G5DIc&list=PLoHS9P-kC-252Pd9MJD_ItfaVuYV2kTCE&index=1)
- * [Physics](https://www.youtube.com/watch?v=cPTrLLdCX-Y&list=PLoHS9P-kC-252Pd9MJD_ItfaVuYV2kTCE&index=2)
- * [Movement](https://www.youtube.com/watch?v=p0vk5HlcFA8&list=PLoHS9P-kC-252Pd9MJD_ItfaVuYV2kTCE&index=3)
- * Helped me review the things I learned in the docs of p5play and get a better understanding of what I need to have in order to make p5play run in my own website.
+  * [Basics](https://www.youtube.com/watch?v=5addy2G5DIc&list=PLoHS9P-kC-252Pd9MJD_ItfaVuYV2kTCE&index=1)
+  * [Physics](https://www.youtube.com/watch?v=cPTrLLdCX-Y&list=PLoHS9P-kC-252Pd9MJD_ItfaVuYV2kTCE&index=2)
+  * [Movement](https://www.youtube.com/watch?v=p0vk5HlcFA8&list=PLoHS9P-kC-252Pd9MJD_ItfaVuYV2kTCE&index=3)
+  * Helped me review the things I learned in the docs of p5play and get a better understanding of what I need to have in order to make p5play run in my own website.
 * 
 
 <!--
