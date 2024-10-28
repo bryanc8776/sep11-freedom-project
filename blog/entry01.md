@@ -11,7 +11,7 @@ Throughout my process of learning ***p5play***, I watched some videos and did so
 * After watching those videos and going through most of the properties in ***p5play***, I did a [mini project](https://jsbin.com/qudinafaso/edit?js,output) on *jsbin*. It was a pretty simple project which basically creates a 'border' around the 'block' and 'ball' `sprites` using properties such as `collision`, `color`, `stroke`, `diameter`, `rotation`, and `velocity` in the `x` and `y` direction.
 
 ### Engineering Design Process
-
+Right now, I am in the first stage of the engineering design process which is defining the problem. The problem is figuring out how I can use my tool to build a soccer game. I am moving onto the next step which is researching the problem where I am going to see how I want to build my game and how I can incorporate ***p5play*** into it.
 
 ### Skills
 A skill I have improved on is **Time Management**. I had a lot of different assignments for my classes, so I decided to prioritize the ones that were due sooner. Once I got those done I moved on to others and tried to make sure I had enough time to do the assignments that were more difficult or important. This helped me get everything done on time.
