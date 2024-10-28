@@ -11,9 +11,9 @@ Throughout my process of learning ***p5play***, I watched some videos and did so
 
 
 ### Skills
-A skill I have improved on **Time Management**. I had a lot of different assignments for my classes, so I decided to prioritize the ones that were due sooner. Once I got those done I moved on to others and tried to make sure I had enough time to do the assignments that were more difficult or important. This helped me get everything done on time.
+A skill I have improved on is **Time Management**. I had a lot of different assignments for my classes, so I decided to prioritize the ones that were due sooner. Once I got those done I moved on to others and tried to make sure I had enough time to do the assignments that were more difficult or important. This helped me get everything done on time.
 
-
+Another skill I have improved on is **Debugging**. As I went through my process of learning my tool, I tried writing my own pieces of code. While writing the code, I got a lot of syntax errors which made me confused since I didn't know where the error was. After carefully skimming through the code, I found the errors which were small, but affected the way the code ran.
 
 [Next](entry02.md)
 
