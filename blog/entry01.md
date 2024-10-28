@@ -1,7 +1,13 @@
-# Entry 1
+# Entry 1: Choosing a Tool & Project
 ##### 10/28/24
 
-Text
+### Tool and Project
+
+
+### Engineering Design Process
+
+
+### Skills
 
 [Next](entry02.md)
 
