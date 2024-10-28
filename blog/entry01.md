@@ -11,6 +11,9 @@ Throughout my process of learning ***p5play***, I watched some videos and did so
 
 
 ### Skills
+A skill I have improved on **Time Management**. I had a lot of different assignments for my classes, so I decided to prioritize the ones that were due sooner. Once I got those done I moved on to others and tried to make sure I had enough time to do the assignments that were more difficult or important. This helped me get everything done on time.
+
+
 
 [Next](entry02.md)
 
