@@ -39,6 +39,9 @@
   * Includes things like `collision`, `color`, `stroke`, `velocity`, and `kb.pressing`.
 * I plan on making this project a little more advanced or make a new project and include different properties.
 
+### 11/4/24:
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
