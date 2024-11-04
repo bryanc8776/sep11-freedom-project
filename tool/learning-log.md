@@ -40,7 +40,7 @@
 * I plan on making this project a little more advanced or make a new project and include different properties.
 
 ### 11/4/24:
-
+* I worked on adding more elements to my mini project on [here](https://jsbin.com/nayekaheyu/edit?js,output).
 
 <!--
 * Links you used today (websites, videos, etc)
