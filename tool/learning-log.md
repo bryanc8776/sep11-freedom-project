@@ -41,10 +41,10 @@
 
 ### 11/4/24:
 * I worked on adding more elements to my mini project on [here](https://jsbin.com/nayekaheyu/edit?js,output).
- * I added a little "goal-like" area
- * Made the canvas bigger
- * Added a new block/player
- * I need to try to fix the movement when pressing a key (so it only moves 1 player instead of both)
+  * I added a little "goal-like" area
+  * Made the canvas bigger
+  * Added a new block/player
+  * I need to try to fix the movement when pressing a key (so it only moves 1 player instead of both)
 
 ### 11/11/24:
 * 
