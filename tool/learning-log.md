@@ -47,8 +47,9 @@
   * I need to try to fix the movement when pressing a key (so it only moves 1 player instead of both)
 
 ### 11/11/24:
-* 
-
+* [Input: Keyboard](https://p5play.org/learn/input.html?page=1)
+  * helped me fix the movement mistake in my project
+  * needed to add 'arrow' to the direction of the `keyboard.pressing` function so it only moves player 2
 
 <!--
 * Links you used today (websites, videos, etc)
