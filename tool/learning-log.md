@@ -50,6 +50,11 @@
 * [Input: Keyboard](https://p5play.org/learn/input.html?page=1)
   * helped me fix the movement mistake in my project
   * needed to add 'arrow' to the direction of the `keyboard.pressing` function so it only moves player 2
+* I made a [new project](https://jsbin.com/genizumemi/edit?js,output)
+  * used starter code from [here](https://p5play.org/learn/sprite.html?page=10)
+  * added `kb.pressing` functions that affected `vel.x` (`arrowLeft` --> move left, `arrowRight` --> move right, `space` --> move up/fly)
+  * added a function for when the drone is `colliding` with the floor which doesn't let it move left/right
+  * I plan on working on this project more
 
 <!--
 * Links you used today (websites, videos, etc)
