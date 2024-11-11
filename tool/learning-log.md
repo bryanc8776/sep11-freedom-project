@@ -42,6 +42,10 @@
 ### 11/4/24:
 * I worked on adding more elements to my mini project on [here](https://jsbin.com/nayekaheyu/edit?js,output).
 
+### 11/11/24:
+* 
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
