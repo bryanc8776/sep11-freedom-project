@@ -64,7 +64,10 @@
 * Revisited the [World](https://p5play.org/learn/world.html) and [Joints](https://p5play.org/learn/joints.html) lessons
   * helped me understand the `.sleeping` which means the sprite isn't moving or colliding with anything new 
 * used the starter code of the 'gluejoint' and 'sleeping' examples in my new [project](https://jsbin.com/matirileci/edit?js,output)
-  * did some changes
+  * added a new sprite called 'brick'
+  * added `if` statements
+    * to prevent the ball from flying out of the canvas (if ball = 0 or 1000, it will bounce back at a `velocity` of 5)
+    * to see if ball is `colliding` with the brick, `ball.sleeping` would be set to `false` and the brick would `rotate` to make the ball fall then return to normal state
 
 <!--
 * Links you used today (websites, videos, etc)
