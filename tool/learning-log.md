@@ -61,6 +61,10 @@
   * added more `if` statements to change the `collider` of the drone and used `kb.presses` to do so
  
 ### 11/24/24
+* Revisited the [World](https://p5play.org/learn/world.html) and [Joints](https://p5play.org/learn/joints.html) lessons
+  * helped me understand the `.sleeping` which means the sprite isn't moving or colliding with anything new 
+* used the starter code of the 'gluejoint' and 'sleeping' examples in my new [project](https://jsbin.com/matirileci/edit?js,output)
+  * did some changes
 
 <!--
 * Links you used today (websites, videos, etc)
