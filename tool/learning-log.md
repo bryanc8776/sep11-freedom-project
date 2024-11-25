@@ -57,7 +57,10 @@
   * I plan on working on this project more
 
 ### 11/18/24
-
+* I continued working on the [project]([https://jsbin.com/genizumemi/edit?js,output](https://jsbin.com/sutogidufe/edit?js,output))
+  * added more `if` statements to change the `collider` of the drone and used `kb.presses` to do so
+ 
+ 
 
 <!--
 * Links you used today (websites, videos, etc)
