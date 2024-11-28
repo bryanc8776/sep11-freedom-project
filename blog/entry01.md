@@ -14,9 +14,9 @@ Throughout my process of learning ***p5play***, I watched some videos and did so
 Right now, I am in the first stage of the engineering design process which is defining the problem. The problem is figuring out how I can use my tool to build a soccer game. I am moving onto the next step which is researching the problem where I am going to see how I want to build my game and how I can incorporate ***p5play*** into it.
 
 ### Skills
-A skill I have improved on is **Time Management**. I had a lot of different assignments for my classes, so I decided to prioritize the ones that were due sooner. Once I got those done I moved on to others and tried to make sure I had enough time to do the assignments that were more difficult or important. This helped me get everything done on time.
+A skill I have improved on is **Time Management**. I had a lot of different assignments for my classes, so I decided to prioritize the ones that were due sooner. Some were due the same day they were assigned or the next day, while others were due the following Monday so I had the weekend to do those. Once I got the ones due sooner done, I tried to quickly move on to others and tried to make sure I had enough time to do the assignments that were more difficult or important. This helped me get everything done on time.
 
-Another skill I have improved on is **Debugging**. As I went through my process of learning my tool, I tried writing my own pieces of code. While writing the code, I got a lot of syntax errors which made me confused since I didn't know where the error was. After carefully skimming through the code, I found the errors which were small, but affected the way the code ran.
+Another skill I have improved on is **Debugging**. As I went through my process of learning my tool, I tried writing my own pieces of code. While writing the code, I got a lot of syntax errors which made me confused since I didn't know where the error was. Some were just a missing `(`parenthesis`)`, a misspelled `variable` name, or I was just missing `' '` when setting values. After carefully skimming through the code, I found the errors which were small, but affected the way the code ran.
 
 [Next](entry02.md)
 
