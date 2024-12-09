@@ -71,6 +71,9 @@
     * to prevent the ball from flying out of the canvas (if ball = 0 or 1000, it will bounce back at a `velocity` of 5)
     * to see if ball is `colliding` with the brick, `ball.sleeping` would be set to `false` and the brick would `rotate` to make the ball fall then return to normal state
 
+### 12/8/24
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
