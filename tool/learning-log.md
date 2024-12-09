@@ -72,7 +72,12 @@
     * to see if ball is `colliding` with the brick, `ball.sleeping` would be set to `false` and the brick would `rotate` to make the ball fall then return to normal state
 
 ### 12/8/24
-
+* Watched [this](https://www.youtube.com/watch?v=5jjnVeZCSwM) video
+  * Went over sprites and the values you can include in it
+  * Sprite(x, y, width, height or 'shape')
+  * If you only define 'width' you get a circle
+  * Both 'width' and 'height' --> square/rectangle
+  * var_name = Sprite(x, y, width, height or 'shape') to later add properties (var_name.property = __)
 
 <!--
 * Links you used today (websites, videos, etc)
