@@ -78,7 +78,16 @@
   * If you only define 'width' you get a circle
   * Both 'width' and 'height' --> square/rectangle
   * var_name = Sprite(x, y, width, height or 'shape') to later add properties (var_name.property = __)
-
+* Worked on [this](https://jsbin.com/gihekoxiyu/edit?js,output) new project
+  * Used starter code from [here](https://p5play.org/learn/tiles.html)
+  * Added more 'tiles' and 'spaces' to make '.PLAY"
+  * Learned about 'tiles' in p5play
+    * 5 parameters
+      1. A string/array which represent a single row
+      2. x-coordinate of the first tile
+      3. y-coordinate of the first tile
+      4. horizontal spacing between tiles
+      5. vertical spacing between tiles
 
 <!--
 * Links you used today (websites, videos, etc)
