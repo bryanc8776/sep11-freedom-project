@@ -1,5 +1,5 @@
-# Entry 2
-##### X/X/XX
+# Entry 2: Learning p5play
+##### 12/9/24
 
 Text
 
