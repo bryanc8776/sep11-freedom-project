@@ -88,6 +88,8 @@
       3. y-coordinate of the first tile
       4. horizontal spacing between tiles
       5. vertical spacing between tiles
+* I plan on watching more videos and trying to make a bigger project  
+   
 
 <!--
 * Links you used today (websites, videos, etc)
