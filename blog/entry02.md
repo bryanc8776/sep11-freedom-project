@@ -35,7 +35,7 @@ function draw() {
   }
 }
 ```
-Here is my code that affects the direction of the drone's movement and the type of `colliding` it has when it is in different areas.
+Here is my code that affects the direction of the drone's movement and the type of `colliding` it has when it is in different areas and different keyboard keys are pressed.
 ![Screenshot 2024-12-15 205415](https://github.com/user-attachments/assets/29bbc714-36c9-40ea-84c4-9337964db4a2)
 This is when the drone's x-value is greater than 700 and it's y-value is between 300 and 200. It's `collider` becomes `static` so it can't move unless you press `z` which makes it move down and become free as shown in the image below. 
 ![Screenshot 2024-12-15 205429](https://github.com/user-attachments/assets/d39ded14-4436-42b6-8de1-8269b3fd58bb)
