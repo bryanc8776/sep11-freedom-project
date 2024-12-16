@@ -53,7 +53,7 @@ My goal for the winter break is to have a good time with my family and get some 
 I am currently on stage 2 of the engineering designing process. I am learning about the different code and concepts in ***p5play*** and documenting what I find. After understanding some of the concepts, I try out different code to make mini-projects and get a better sense of how that concept affects the overall project.
 
 ### Skills
-
+The skills I have improved on during this time are **How to Learn** and **How to Read**. Throughout learning my tool, I had to go through the documentations over and over again so I can understand the concepts better. I decided to go through the entire document first, then as I went through it again I just skimmed it and looked for the important sections. At some points I also took notes on the important stuff. Along with this, I had to review many things for other subjects like History and Math so I tried many methods to learn the material like taking notes, quizzing myself, and highlighting the most important areas of the documents.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
