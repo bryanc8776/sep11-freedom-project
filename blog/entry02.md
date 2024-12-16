@@ -46,6 +46,9 @@ This is when the drone's x-value is greater than 700 and it's y-value is between
   * If you define both 'width' and 'height' you get a square/rectangle.
   * You can set `Sprite()` equal to a variable with `var_name = Sprite(x, y, width, height or 'shape')` to later add properties like this: `var_name.property = value`.
 
+#### FP Winter Break Goal
+My goal for the winter break is to have a good time with my family and get some rest. However, I also aim to continue learning and practicing my tool. I plan on trying to create my own project starting from absolue zero and adding many features to it that could possibly make it something like I want my final game to be like or a little more complex than what I have been doing. I plan on doing this in the first couple of days of the break.
+
 ### Engineering Design Process
 I am currently on stage 2 of the engineering designing process. I am learning about the different code and concepts in ***p5play*** and documenting what I find. After understanding some of the concepts, I try out different code to make mini-projects and get a better sense of how that concept affects the overall project.
 
