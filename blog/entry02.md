@@ -41,7 +41,7 @@ This is when the drone's x-value is greater than 700 and it's y-value is between
 ![Screenshot 2024-12-15 205429](https://github.com/user-attachments/assets/d39ded14-4436-42b6-8de1-8269b3fd58bb)
 
 * I also watched [this](https://jsbin.com/gihekoxiyu/edit?js,output) video which basically went over sprites and the values you can include in it. I learned the following:
-  * `Sprite(x, y, width, height or 'shape')` is the setup for a sprite declaration.
+  * `Sprite(x, y, width, height or 'shape')` is the setup for a sprite declaration to get shapes but you can also add other concepts, in particular `collision`.
   * If you only define the 'width' you get a circle.
   * If you define both 'width' and 'height' you get a square/rectangle.
   * You can set `Sprite()` equal to a variable with `var_name = Sprite(x, y, width, height or 'shape')` to later add properties like this: `var_name.property = value`.
