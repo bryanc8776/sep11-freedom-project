@@ -6,7 +6,7 @@ For the past weeks, I have been learning more about my tool, ***p5play***. I hav
 
 #### Tinker:
 I tried to do some mini-projects with the concepts as I reviewed them so I can get a better understanding of how they work. 
-* [Here](https://jsbin.com/genizumemi/edit?js,output) is one of the main projects I worked on which is mainly about *Advanced Movements*. I used the starter code from [here](https://p5play.org/learn/sprite.html?page=10) and later added more things. It included concepts such as `sprites`, `world.gravity`, `collider`, `velocity`, and `kb.pressing`.
+* [Here](https://jsbin.com/genizumemi/edit?js,output) is one of the main projects I worked on which is mainly about *Advanced Movements*. I used the starter code from [here](https://p5play.org/learn/sprite.html?page=10) and later added more things. It included concepts such as `sprites`, which were a "drone" and a "floor", `world.gravity`, `collider`, `velocity`, and `kb.pressing`. 
 
 ```JS
 function draw() {
