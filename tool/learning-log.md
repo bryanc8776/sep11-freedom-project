@@ -90,6 +90,7 @@
       5. vertical spacing between tiles
 * I plan on watching more videos and trying to make a bigger project  
    
+### 12/16/24
 
 <!--
 * Links you used today (websites, videos, etc)
