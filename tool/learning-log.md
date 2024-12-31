@@ -94,7 +94,18 @@
 * I tried to make a border/field [here](https://jsbin.com/yeducegohe/edit?js) but decided to change to just a "floor"/lines in a new project
 
 ### 12/31/24
-
+* Worked on my project which is possibly an [MVP](https://jsbin.com/kigahihipu/edit?js,output)
+  * Added the 'field'
+  * Two players which are the balls on the ends of the field
+    * "player1" moves with "WASD"
+    * "player2" moves with "Arrowkeys"
+  * The circle in the middle is the "ball"
+    * bounces off the walls when it collides
+  * I plan on making this project more better
+    * add time with a limit
+    * add scoreboard with a limit
+    * make it so when " " is pressed and a player collides with the ball, the ball will moves away
+    * when the ball crosses the "net" it will give the player a goal 
 
 <!--
 * Links you used today (websites, videos, etc)
