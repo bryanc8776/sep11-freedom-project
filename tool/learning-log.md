@@ -93,6 +93,9 @@
 ### 12/16/24
 * I tried to make a border/field [here](https://jsbin.com/yeducegohe/edit?js) but decided to change to just a "floor"/lines in a new project
 
+### 12/31/24
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
