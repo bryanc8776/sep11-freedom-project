@@ -108,7 +108,13 @@
     * when the ball crosses the "net" it will give the player a goal 
 
 ### 1/12/25
-
+* Continued to add to my previous project [here](https://jsbin.com/pobipetuya/edit?js,output)
+  * I added a score for player1(score1) and player2(score2)
+  * increases when the ball's position is inside the "field" lines at the opposite vertical "border" ends.
+  * I plan on added a limit and making it appear on the screen rather than the console
+* Also tried to add a timer [here](https://jsbin.com/ridesodayu/edit?js,output)
+  * I need to change it so it counts up
+  * I also need to get a better understanding of how it works
 
 <!--
 * Links you used today (websites, videos, etc)
