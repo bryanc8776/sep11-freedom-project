@@ -107,6 +107,9 @@
     * make it so when " " is pressed and a player collides with the ball, the ball will moves away
     * when the ball crosses the "net" it will give the player a goal 
 
+### 1/12/25
+
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
