@@ -1,5 +1,5 @@
-# Entry 3
-##### X/X/XX
+# Entry 3: Learning p5play 
+##### 2/3/25
 
 Text
 
