@@ -1,7 +1,7 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: p5play
+## Product: Soccer game
 
 ---
 
