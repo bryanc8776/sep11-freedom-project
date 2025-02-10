@@ -9,8 +9,11 @@
 
 #### MVP
 
-- [ ] Task (deadline: X)
-  - [ ] Subtask (deadline: X)
+- [ ] Create a scoreboard with a timer next to it (deadline: 2/25)
+  - [ ] make the score appear on the game and only when there is a "goal" 
+  - [ ] add a limit to the timer and scores: when either is reached, the game will end unless the game is tied
+- [ ] Make is so when the ball and player collide and the player presses "space" there is a force on the ball (deadline: 2/30)
+  - [ ] The ball goes in the direction of the collision
 
 #### Beyond MVP
 
