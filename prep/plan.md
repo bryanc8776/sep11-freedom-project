@@ -9,6 +9,7 @@
 
 #### MVP
 
+- [ ] Make a fixed soccer field with boundaries the ball can't go through (deadline: 2/17)
 - [ ] Create a scoreboard with a timer next to it (deadline: 2/25)
   - [ ] make the score appear on the game and only when there is a "goal" 
   - [ ] add a limit to the timer and scores: when either is reached, the game will end unless the game is tied
