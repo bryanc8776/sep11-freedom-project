@@ -11,6 +11,7 @@ It just contains things such as'field', two players ("player1" moves with "WASD"
 
 After break, I kept on adding to my [project](https://jsbin.com/pobipetuya/edit?js,output). I added a score for player1(score1) and player2(score2) which increases when the ball's position is inside the "field goal" lines at the opposite vertical "border" ends. I also tried to add a timer which I still need to understand how it works. 
 
+#### Next Steps
 I plan on completing my FP goal in the next weeks with this project. I need to add a limit to the scores and make them appear on the game rather than the console. I also need to change the timer to increase, add a limit, and make it bigger to see. Another thing I plan on doing is making it so when " " is pressed and a player collides with the ball, the ball will move away towards the direction of the force and with a velocity based on the force applied. For the score top increase, I need to add code so that when the ball crosses the "net" it will give the player a goal. 
 
 ### Engineering Design Process
