@@ -14,8 +14,9 @@
   - [ ] make the score appear on the game and only increase when there is a "goal" (the ball goes into the net)
 - [ ] Everytime there is a goal, reset the game to the starting setup (ball in the middle, players on opposite ends) (deadline: 3/17)
 - [ ] Add a limit to the timer and scores (deadline: 3/5)
-  - [ ] if the goals limit is reached by either player, the game ends
-  - [ ] if the time runs out and the game is not tied, the game ends
+  - [ ] if the goals limit is reached by either player before the time ends, the game ends and resets
+  - [ ] if the time runs out and the game is not tied but the score limit has not been reached, the game ends
+  - [ ] if the the game is tied and the time runs out, the game goes into extratime until someone scores 
 - [ ] Make is so when the ball and player collide and the player presses "space" there is a force on the ball (deadline: 3/10)
   - [ ] The ball goes in the direction of the force
 - [ ] Set a fixed velocity for both players that is equal (deadline: 2/21)
