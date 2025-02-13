@@ -9,12 +9,17 @@
 
 #### MVP
 
-- [ ] Make a fixed soccer field with boundaries the ball can't go through (deadline: 2/17)
-- [ ] Create a scoreboard with a timer next to it (deadline: 2/25)
-  - [ ] make the score appear on the game and only when there is a "goal" 
-  - [ ] add a limit to the timer and scores: when either is reached, the game will end unless the game is tied
-- [ ] Make is so when the ball and player collide and the player presses "space" there is a force on the ball (deadline: 2/30)
-  - [ ] The ball goes in the direction of the collision
+- [ ] Make a fixed soccer field/boundaries the ball and the players can't go through --> static collider (deadline: 2/20)
+- [ ] Create a scoreboard with a timer next to it (deadline: 2/24)
+  - [ ] make the score appear on the game and only increase when there is a "goal" (the ball goes into the net)
+- [ ] Everytime there is a goal, reset the game to the starting setup (ball in the middle, players on opposite ends) (deadline: 3/17)
+- [ ] Add a limit to the timer and scores (deadline: 3/5)
+  - [ ] if the goals limit is reached by either player, the game ends
+  - [ ] if the time runs out and the game is not tied, the game ends
+- [ ] Make is so when the ball and player collide and the player presses "space" there is a force on the ball (deadline: 3/10)
+  - [ ] The ball goes in the direction of the force
+- [ ] Set a fixed velocity for both players that is equal (deadline: 2/21)
+  - [ ] The keypressed determines the direction of the velocity
 
 #### Beyond MVP
 
