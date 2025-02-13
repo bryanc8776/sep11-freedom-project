@@ -24,8 +24,8 @@
 
 #### Beyond MVP
 
-- [ ] Task
-  - [ ] Subtask
+- [ ] add animations that could be chosen and used when a player scores
+- [ ] Make different maps/fields which the user could choose
 
 
 <!-- EXAMPLE
