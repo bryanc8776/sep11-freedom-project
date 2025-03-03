@@ -115,6 +115,16 @@
 * Also tried to add a timer [here](https://jsbin.com/ridesodayu/edit?js,output)
   * I need to change it so it counts up
   * I also need to get a better understanding of how it works
+ 
+ ### 3/2/25
+* I tried to add a scoreboard [here](https://jsbin.com/qowovexeqo/edit?js,output)
+  * Added a rectangular sprite
+  * Added text to it with states the time and score
+  * Both set to  0
+* Set the border/field lines color to 'white' [here](https://jsbin.com/qowovexeqo/edit?js,output)
+* Have to work on following my plan
+* Figure out how to make the timer increase and the score as well
+* Add a goal/net which when the ball crosses a goal will be given
 
 <!--
 * Links you used today (websites, videos, etc)
