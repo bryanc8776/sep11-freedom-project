@@ -5,7 +5,7 @@
 Text
 
 ### Engineering Design Process
-
+I am currently on steps 2 and 3 of the EDP. I am working on my MVP, but still need to learn more about the code of p5play to make my game work and be more interactive/advanced. 
 
 ### Skills
 
