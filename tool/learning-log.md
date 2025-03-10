@@ -126,6 +126,13 @@
 * Figure out how to make the timer increase and the score as well
 * Add a goal/net which when the ball crosses a goal will be given
 
+### 3/9/25
+* I made the goals/nets [here](https://jsbin.com/vezuragile/edit?js,output)
+  * Resized the Canvas
+  * made the timer increase
+* Need to review the p5play lessons
+* try to find a way to shorten the code, if possible
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
