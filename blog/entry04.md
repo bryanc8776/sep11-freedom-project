@@ -1,5 +1,5 @@
-# Entry 4
-##### X/X/XX
+# Entry 4: Learning Continued
+##### 3/10/25
 
 Text
 
