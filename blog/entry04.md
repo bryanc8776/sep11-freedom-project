@@ -16,7 +16,7 @@ function timeIt() {
   }
 }
 ```
-It makes the `timerValue` increase by 1 every second. I still need to make a timer that fits my game.
+It makes the `timerValue` increase by 1 second every second. I still need to make a timer that fits my game.
 
 #### Next Steps
 I haven't made the progress I wish I had, so I really need to focus on reviewing the [p5play](https://p5play.org/learn/) concepts and try to catch up with my plan or make some changes and make sure I meet those deadlines. I have to make the time appear correctly and make it show on the scoreboard as well as the score which should only increase when the ball goes through the net.
