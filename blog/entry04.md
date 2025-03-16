@@ -4,8 +4,8 @@
 ### Content
 Over the past weeks, I have been trying to work on my MVP for my game, which is the minimum I need to make it work. To understand how much I need to make a functional soccer game and keep track of my progress, I made a [plan](../prep/plan.md). I have made some progress towards my MVP, but still need to learn and make a lot.
 
-![alt text](image.png)
-![alt text](<Screenshot 2025-03-16 154756.png>)
+![Screenshot 2025-03-16 154027](https://github.com/user-attachments/assets/f19a88f5-a5a7-42e3-94ae-8f7f4f4c8084)
+![Screenshot 2025-03-16 154756](https://github.com/user-attachments/assets/134a0e80-b539-4ab9-8ca6-3f4b12cf4d1c)
 
 This is what I have done so far. I set the borders and the field lines to 'white' with `field.color` and `border.color`, added goals/nets for each player, added a scoreboard which tells the time and score, and made the time increase. 
 
