@@ -133,6 +133,14 @@
 * Need to review the p5play lessons
 * try to find a way to shorten the code, if possible
 
+### 3/23/25
+* I figured out how to apply a force on the ball when a player is colliding with it and presses a key
+  * [This](https://p5play.org/learn/sprite.html?page=10) helped me figure out how to use `.applyForce()`
+  * I put it in my [project](https://jsbin.com/qiyedapibi/edit?js,output)
+    * When `player1` collides with the ball and presses `x`, the ball will be "kicked" with a force of 200
+    * The same goes for `player2` but with `l`
+    * I need to figure out how to make the force go towards the direction of the collision
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
