@@ -145,7 +145,7 @@
 * I continued to work on my [project](https://jsbin.com/socudagufu/edit?js,output)
   * I was able to make it so when a player is moving to the left side of the screen and colliding with the ball, when they press their respective key, the ball would go in that direction
   * I was also able to make my timer work and run up to 3 minutes
-  * used `if` statements to check the `timerValue` and make the text/timer show what second it was
+  * used `if` statements to check the `timerValue` and make the text/timer show what minute and second it was
  
  
 <!--
