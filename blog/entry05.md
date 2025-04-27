@@ -1,7 +1,14 @@
-# Entry 5
-##### X/X/XX
+# Entry 5: MVP
+##### 4/27/25
 
-Text
+### Content
+
+
+### Engineering Design Process
+
+
+### Skills
+
 
 [Previous](entry04.md) | [Next](entry06.md)
 
