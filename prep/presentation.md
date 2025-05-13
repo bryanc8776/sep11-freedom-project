@@ -1,16 +1,24 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Ask a question about sports or soccer
+* OR tell a fact about soccer
 
 ## Product
-* 
+* Show picture and demo the game
+* Explain the controls
 
 ## Process
-* 
+* Show other mini-projects I made + link to p5play
+* Show different stages of my project
+* Show and explain use of conditionals/functions
+* Maybe show difference between MVP and beyond MVP\
+* Include some challenges
 
 ## Conclusion
-* 
+* Link to project
+* Takeaways: Time management is vital, it is important to spend time on your tool
+* Would you be interested in exploring p5play?
 
 <!-- EXAMPLE
 
