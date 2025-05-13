@@ -1,8 +1,7 @@
 # Presentation Plan
 
 ## Hook
-* Ask a question about sports or soccer
-* OR tell a fact about soccer
+* Did you know that over 250 million people across the world play soccer and over 3 billion watch it?
 
 ## Product
 * Show picture and demo the game
@@ -13,7 +12,7 @@
 * Show different stages of my project
 * Show and explain use of conditionals/functions
 * Maybe show difference between MVP and beyond MVP\
-* Include some challenges
+* Include some challenges (with timer, score, resetting the game)
 
 ## Conclusion
 * Link to project
