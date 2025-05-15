@@ -11,7 +11,7 @@
 * Show other mini-projects I made + link to p5play
 * Show different stages of my project
 * Show and explain use of conditionals/functions
-* Maybe show difference between MVP and beyond MVP\
+* Maybe show difference between MVP and beyond MVP
 * Include some challenges (with timer, score, resetting the game)
 
 ## Conclusion
