@@ -1,5 +1,5 @@
-# Entry 6
-##### X/X/XX
+# Entry 6: Presentations
+##### 5/27/25
 
 Text
 
