@@ -23,6 +23,6 @@ After I completed step 7 of the EDP which was to improve my project as needed, w
 The skills I have improved on are **Communication** and **Organization**. For the in-class presentation, I had to organize my content into slides to show my progress as the year went on and how my project went. I decided to start with a hook, then explain the tool I used, show mini-projects I made to tinker, then show and explain the build-up to my soccer game. After that, I moved on to explain my challenges and how I solved it and ended with the takeaways and a "Thank You". I feel that I have greatly improved in **Communication** since last year. When I did the Expo Elevator Pitch, I felt more confident and ready to get the judges interested in my game. Also, for the in-class presentation, I felt way more confident than last year and did better. I made more eye-contact with the audience, spoke louder, and explained many things better.
 
 
-[Previous](entry05.md) | [Next](entry07.md)
+[Previous](entry05.md) |
 
 [Home](../README.md)
