@@ -8,9 +8,9 @@ For my project, I chose to independently study **p5play** in order to help me ma
 
 ## Links
 
-[Product]()
+[Product](https://bryanc8776.github.io/sep11-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1joYAra_u6bc89wVVNky22jwCCu56UoHuJmAOU4vMUjc/edit?slide=id.p#slide=id.p)
 
 ## Implications
 ##### PROS
