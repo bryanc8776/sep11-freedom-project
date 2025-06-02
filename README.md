@@ -4,7 +4,7 @@ by **Bryan Castro**
 ## Context
 I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP11 is a year-long project all about making something using JavaScript along with a third-party JS tool.
 
-For my project, I chose to independently study **p5play** in order to help me make my **soccer game**.
+For my project, I chose to independently study **p5play** in order to help me make my **soccer game**. My game has two players, the red player moves with WASD and shoots with `x` while the blue player moves with the Arrow Keys and shoots with `l`. It also has a timer which has a limit of 5 minutes and a score with a limit of 3 goals.
 
 ## Links
 
