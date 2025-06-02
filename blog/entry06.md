@@ -1,6 +1,9 @@
 # Entry 6: Presentations
 ##### 5/27/25
 
+### Product
+After working on my soccer game for a long time, it was finally time to finish working and convey the result. To do this, we had to present our products in an Expo and in-class presentations, For the in-class presentation, we made [slides](https://docs.google.com/presentation/d/1joYAra_u6bc89wVVNky22jwCCu56UoHuJmAOU4vMUjc/edit?slide=id.p#slide=id.p) to sum up our entire process as we made our projects. For the Expo, I made a [slide](https://docs.google.com/presentation/d/1sHzAXLp1beL6LjAmeWIu2fQZYAtFTcEKnAVhHP1VFZI/edit?slide=id.p#slide=id.p) to show a little information about my project. [Here](https://docs.google.com/document/d/1e1Q1XNOkAAItXt8awBe8Lx2EEA93n6dRRm6pq7gxU5Q/edit?tab=t.0) are my notes that I took as we learned content for sep11.
+
 ### Takeaways
 #### Expo Elevator Pitch
 * It is important to get straight to the point/give a short but detailed description of your project.
