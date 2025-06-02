@@ -14,9 +14,13 @@ For my project, I chose to independently study **p5play** in order to help me ma
 
 ## Implications
 ##### PROS
-* 
+* Environment - It is online so it would use less materials to play and advertise.
+* Relationships - Can help build friendships since it is a two-player game and they can have fun.
+* Individual - Can inspire some to pursure a goal of becoming a soccer player or learn to code so they can make their own games.
 ##### CONS
-* 
+* Culture - Might lead to longer use of electronic devices (computers, phones) and less learning.
+* Finance - Can potentially lead to other game companies losing money since my game is free.
+* Jobs - My game doesn't provide jobs or help facilitate them.
 
 
 ## Blog
